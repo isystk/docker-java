@@ -1,0 +1,16 @@
+
+# mysql
+docker/mysql/data
+
+# tools
+tools/*
+
+# source
+src/*
+
+public/thumb/*
+
+.DS_Store
+.history
+*.log
+!.gitkeep
